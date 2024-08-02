@@ -5,6 +5,6 @@
    pilih? berikan alasannya.
    Menurut saya sendiri hal tersebut bergantung pada proyek yang sedang dikerjakan jika suatu proyek 
    membutuhkan banyak sekali jenis database memilih PDO merupakan pilihan tepat, tetapi jika proyek 
-   hanya menggunakan database Mysql maka memilh MYSQLi lebih baik dikarenakan ada beberapa kekurangan
+   hanya menggunakan database Mysql maka memilih MYSQLi lebih baik dikarenakan ada beberapa kekurangan
    pada PDO yang bisa diatasi dengan kelebihan MYSQLi dalam penggunaan database mysql contohnya penggunaan
    store procedured.
